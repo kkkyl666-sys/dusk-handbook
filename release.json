@@ -1,23 +1,25 @@
 {
   "edition": "share",
-  "version": "2026.10.06.2",
+  "version": "2026.10.08.1",
   "repository": "kkkyl666-sys/dusk-handbook",
   "files": {
     "atelier.js": "d2cdd7e087f8caef2af8b9e48afc303d80285a642734a97665e37345a305e60e",
     "atelier.css": "1ad7a1d28f8f2767860a49d553dd34eef23864b3cb9e54adf252e9772024e39a",
+    "word-training.js": "2c7e30ef9498571304f7f7dc15baed81857d167fc0235be83aa4b6126bab9d9f",
+    "word-training.css": "d75a0dfa26348014902c5cde660e1c0767e6e9b4b4461c078b48c1077ecb2359",
     "cet6-35.js": "9b87668514baf9e6801be33184210aa757e66a1d351b3fc377a425dc8c92f793",
     "dusk-pet.png": "9aadf875aa5c2f060729aec4670330031267e3afe3fdcfe0039b2ac5efb12e74",
     "lucide.min.js": "b26eac159a876454404f10be2f7e471bccb9d6f2398b5cfdf1045425ac94abf0",
     "lucide-LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
     "development.html": "e86c0893a741934de49638f3b005b6571d1705cb1ab36d63c2068caca7f302e5",
-    "development-log.json": "7f6b2e0d6df415d4d9c51b881d9ab3808d327758d31934ada9f8b09a22c96a5d",
+    "development-log.json": "a287028b27c2743d35794cfc29bda84313a29a5cfc2b553f913f753612916587",
     "development.js": "463f23d1856bce929b7e962af4fe33dc3b7e3f648c85d4341e562b4c64be3164",
     "development.css": "d6226fe108c30573c4a11d77c4e552065aa5ac23ec41f5a73260ddd23d8d1c5b",
-    "DEVELOPMENT.md": "32943e7f258fc5cbc41d53757f8492b5f1c8aec3da74d84022a2185e6029ebb5",
+    "DEVELOPMENT.md": "f9bea1957d7491dbc21b1b449f133675d1fbdc19d25e34e523872233f597c9cf",
     "ASSETS.md": "ff32d5d490666cd144b0c885afab8c4b087d7843e251fc65bc79587f5940fb82",
     "demo.js": "845e4a85ed50eeb208559ba9c099ad99c9eddc14428da2cc9132f73fe22d88ed",
     "demo.css": "ec211c4e1bdcabc5bcd9711d1f657fafdd90ed3744574f991886e2fb9e2de81c",
-    "share-tools.js": "932f04ef67da98523ce05c32c16c64b9a35f11c94972e3cc9eae892eeba93bfd",
+    "share-tools.js": "ea8aaaf39c7532fbddc93859a745cd6292d0147f5be91c11b2ae93ea6c3d4ae4",
     "share-tools.css": "c90e2d03a6c4c619e612f8644f17f1f8e59132468e86a6483ad896ef967febe1",
     "papaparse.min.js": "3553fb8bdf5b8004ce5531e6827e81c8b34e7b3992677967754544064e97b016",
     "papaparse-LICENSE.txt": "99aa68e4b42758b09828a46515f70369e5463458ab7a990189f641af2b8d9b4e",
@@ -37,11 +39,11 @@
     "assets/wallpapers/dusk-realm-concept.webp": "90b97f5424b8217d330caab44f7a0a5704c892edfdeb6f2582389f397f40d5ae",
     "assets/wallpapers/dusk-studio-concept-preview.webp": "a3ea1f6d3193e3c09be6a738e8134a1ac6a02e5765ea6f4dec65a01abdae531a",
     "assets/wallpapers/dusk-studio-concept.webp": "40c9df9301075b39afa9c983f783ab367caf9513bed9e77c7b546bb14a75d892",
-    "index.html": "7976870dae43eeb27ebce79a7ad0a5c348671d4c2eb4355e8a1c7af3179b0ae2",
-    "share.html": "7976870dae43eeb27ebce79a7ad0a5c348671d4c2eb4355e8a1c7af3179b0ae2",
+    "index.html": "3028c97d24e72c2803879662cf09c3fcd17873b9d7de33d61a66695d9e0844c0",
+    "share.html": "3028c97d24e72c2803879662cf09c3fcd17873b9d7de33d61a66695d9e0844c0",
     "manifest-demo.webmanifest": "3da4bb6a8529fe5ae32b958dcc2b61dbcf6a27a71f5cc12201466401374c561f",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "sw.js": "6c774071233a6be81f7edc8c575f1b7fa95d05185925df615f428f3652febe44"
+    "sw.js": "b22fdf23763dede4a3272a524982a9b260f58c9bc7c5302bd0d897b4ee85127a"
   },
-  "sourceCommit": "5b72293cbc62181fadd2e0e46c6c90ac7b6e3284"
+  "sourceCommit": "6bf976dff9d56342ff374fd1ab0c81bfb1e0be29"
 }

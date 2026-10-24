@@ -23,10 +23,10 @@
     "lucide.min.js": "b26eac159a876454404f10be2f7e471bccb9d6f2398b5cfdf1045425ac94abf0",
     "lucide-LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
     "development.html": "e86c0893a741934de49638f3b005b6571d1705cb1ab36d63c2068caca7f302e5",
-    "development-log.json": "2a4d861a0cb67d8b2eafa1b18ecd8600693942cf03cbf8de0195415dec51c019",
+    "development-log.json": "6f2b821c63d6812115ab757b06793fc28c38a0777eb635c185f1e03f19d469ae",
     "development.js": "463f23d1856bce929b7e962af4fe33dc3b7e3f648c85d4341e562b4c64be3164",
     "development.css": "d6226fe108c30573c4a11d77c4e552065aa5ac23ec41f5a73260ddd23d8d1c5b",
-    "DEVELOPMENT.md": "b0142c534d514ae212692abcb92e66e315f380346710d4f83a36e6e5428b3e62",
+    "DEVELOPMENT.md": "cbabefd9fd7b6295404f566b5a8ec84df43d7af8a6dacad99554b51f5b413dff",
     "ASSETS.md": "347df1b7bf61f5b7beeeadc5d9c882398cf491a4ecad0ebfdebcb507da543002",
     "demo.js": "845e4a85ed50eeb208559ba9c099ad99c9eddc14428da2cc9132f73fe22d88ed",
     "demo.css": "ec211c4e1bdcabc5bcd9711d1f657fafdd90ed3744574f991886e2fb9e2de81c",
@@ -92,7 +92,7 @@
     "share.html": "93840355fbdb0516ab5824ae9dbaaa627f9a4b8464e35517416ac80400d72bc4",
     "manifest-demo.webmanifest": "3da4bb6a8529fe5ae32b958dcc2b61dbcf6a27a71f5cc12201466401374c561f",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "sw.js": "8c18623e8ea293fae98a9deb53d1a4f3e00439df1b9d938597ff9f2f001a7d97"
+    "sw.js": "22c6453d6040eb13e91e3b875a6bec22b7181013e5a82ff6e305aaf8c97e8eae"
   },
-  "sourceCommit": "2bafc640569776fcf4866b6e5f6bd3bdd9d18328"
+  "sourceCommit": "8a3a6a6bfa90c57113b7f1e39440d9e8d1414492"
 }

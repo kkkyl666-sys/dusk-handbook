@@ -1,6 +1,6 @@
 {
   "edition": "share",
-  "version": "2026.10.23.2",
+  "version": "2026.10.26.1",
   "repository": "kkkyl666-sys/dusk-handbook",
   "files": {
     "atelier.js": "c63c596243329104be6299a15165531cb2e02e427d3160e4eb315083b4a65dd2",
@@ -9,7 +9,7 @@
     "word-training.css": "bfdc6f0ca628cb2df9173008b70175b45b66f14c19748cb5defe0f4fca79505c",
     "study-shell.js": "415d6358654a5500144ef68a73a20e019aafda7d63bc0023ba7ab95e65b93029",
     "study-shell.css": "87f936eeaf10d57b12a10f297eec5583c8d759fdbc437948cfb32418a3e4f906",
-    "daily-flow.js": "c5de82a9e06948e703bfb307780bc1a893ace849cc50ad45efc4725ef226dff8",
+    "daily-flow.js": "ddd9968a5ed6a423590d1bc3a069b4c619bfc6454b7504deab32a1ba1123105b",
     "daily-flow.css": "06dc4c3cb4b6ad583c18146b408a09826459d10c9fcbbabdb952e69f58fba08c",
     "study-plan.js": "97b265ef9fe33e2c952e506fec1d09aafb7a38dcc1791c0a7868e420c73e7a83",
     "study-quota-ui.js": "d733b65069b8b2404bde22d1d0a1ddfae91ebdbbbb2a9a45e4cc11c460352ca0",
@@ -23,16 +23,16 @@
     "lucide.min.js": "b26eac159a876454404f10be2f7e471bccb9d6f2398b5cfdf1045425ac94abf0",
     "lucide-LICENSE.txt": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
     "development.html": "e86c0893a741934de49638f3b005b6571d1705cb1ab36d63c2068caca7f302e5",
-    "development-log.json": "6f2b821c63d6812115ab757b06793fc28c38a0777eb635c185f1e03f19d469ae",
+    "development-log.json": "eec4678239e0d36182e7ecc255bdfa2eb92f67911bf8e49abd2039205dc15c8f",
     "development.js": "463f23d1856bce929b7e962af4fe33dc3b7e3f648c85d4341e562b4c64be3164",
     "development.css": "d6226fe108c30573c4a11d77c4e552065aa5ac23ec41f5a73260ddd23d8d1c5b",
-    "DEVELOPMENT.md": "cbabefd9fd7b6295404f566b5a8ec84df43d7af8a6dacad99554b51f5b413dff",
+    "DEVELOPMENT.md": "4758a9d8ee1e8978a02872fa74d635db1a502ce179b327697fea4010a1175cd0",
     "ASSETS.md": "347df1b7bf61f5b7beeeadc5d9c882398cf491a4ecad0ebfdebcb507da543002",
     "demo.js": "845e4a85ed50eeb208559ba9c099ad99c9eddc14428da2cc9132f73fe22d88ed",
     "demo.css": "ec211c4e1bdcabc5bcd9711d1f657fafdd90ed3744574f991886e2fb9e2de81c",
     "share-tools.js": "62db93ae9f735ff705bfca7ca7608e16eaba137fb52edbe4049c00dfa1ec7637",
     "share-tools.css": "c90e2d03a6c4c619e612f8644f17f1f8e59132468e86a6483ad896ef967febe1",
-    "share-guide.js": "5d5d48ff9decfac0449bcd1bc3ff05cb8660b7539a0ad4a0c5a12528ce55a926",
+    "share-guide.js": "201557eab7226ceda8ac8802a7ca47b78f42138c99287db4442472f45d6561db",
     "share-guide.css": "1429c9bcb7b469e40bb313bf99889e1ebcbe2cc6771f712fd32845953e41e362",
     "papaparse.min.js": "3553fb8bdf5b8004ce5531e6827e81c8b34e7b3992677967754544064e97b016",
     "papaparse-LICENSE.txt": "99aa68e4b42758b09828a46515f70369e5463458ab7a990189f641af2b8d9b4e",
@@ -88,11 +88,11 @@
     "assets/wallpapers/phone-studio.webp": "f6ac2668cda7f70770a48263b1b6effd7c6089c67a84de632b1356ebd6f52564",
     "assets/wallpapers/phone-window-preview.webp": "d7b9b0ed542c32a9edad2311d1d05fe15d3935cb851d4d2b378d353b13c46120",
     "assets/wallpapers/phone-window.webp": "e5804532ef22d3928fc4f58179039a4195d8a67d7bf3156cf7fabef0399767ee",
-    "index.html": "93840355fbdb0516ab5824ae9dbaaa627f9a4b8464e35517416ac80400d72bc4",
-    "share.html": "93840355fbdb0516ab5824ae9dbaaa627f9a4b8464e35517416ac80400d72bc4",
+    "index.html": "c412d57f5dd1a5e59c055d2b454b10da18de0f40ba3b2721cc1903e6e905d416",
+    "share.html": "c412d57f5dd1a5e59c055d2b454b10da18de0f40ba3b2721cc1903e6e905d416",
     "manifest-demo.webmanifest": "3da4bb6a8529fe5ae32b958dcc2b61dbcf6a27a71f5cc12201466401374c561f",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "sw.js": "22c6453d6040eb13e91e3b875a6bec22b7181013e5a82ff6e305aaf8c97e8eae"
+    "sw.js": "43ffcb7e4d6906360c63d19c00a1b1687a003a9d97b466566f255fe10c0768d7"
   },
-  "sourceCommit": "8a3a6a6bfa90c57113b7f1e39440d9e8d1414492"
+  "sourceCommit": "b2097c73297f0fcda9475adfac827dc015a80776"
 }
